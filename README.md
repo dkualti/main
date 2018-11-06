@@ -11,3 +11,7 @@
 
 ### Objectivities of 2nd step
 - Let's gather opinions while achieving the objectivities of 1st step.
+
+### Guideline for contributing this github dkualti organization
+- Let's use English for the sake of sharing knowledge with everybody in the world.
+- Let's ask, answer and share anything with everybody.
