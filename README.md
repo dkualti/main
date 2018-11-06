@@ -7,6 +7,7 @@
 - Making a machine learning application
   * Use the language that you chose for making a SWIG driver. 
   * Use the driver that you made for Altibase connectivity.
+  * Use Altibase database for initial data repository and final data store.
 
 ### Objectivities of 2nd step
 - Let's gather opinions while achieving the objectivities of 1st step.
