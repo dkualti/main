@@ -15,3 +15,7 @@
 ### Guideline for contributing this github dkualti organization
 - Let's use English for the sake of sharing knowledge with everybody in the world.
 - Let's ask, answer and share anything with everybody.
+
+### License
+- All source codes of this repository is under the GNU Affero General Public License version 3.
+- All documentations of this repository is under the GNU Free Documentation License version 1.3.
